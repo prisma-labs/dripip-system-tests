@@ -1,0 +1,24 @@
+{
+  "name": "dripip-system-tests",
+  "version": "22222222222222224.3.0-next.1",
+  "description": "A repo for system tests to work against.",
+  "main": "index.js",
+  "dependencies": {
+    "dripip": "^0.0.0-pr.68.14.6e55a86"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prisma-labs/dripip-system-tests.git"
+  },
+  "keywords": [],
+  "author": "Jason Kuhrt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prisma-labs/dripip-system-tests/issues"
+  },
+  "homepage": "https://github.com/prisma-labs/dripip-system-tests#readme"
+}
